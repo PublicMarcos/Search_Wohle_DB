@@ -1,5 +1,5 @@
 ﻿# Search Whole DB
-
+![alt tag](Screenshot.png)
 
 ##Achtung
 Sie müssen den Source Code anpassen, um das Programm nutzen zu können. Die Stellen, an denen das nötig ist, wurden kommentiert.
