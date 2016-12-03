@@ -1,4 +1,7 @@
 ﻿# Search Whole DB
+<p align="center">
+  <img src="Screenshot.png">
+</p>
 ![alt tag](Screenshot.png)
 
 ##Achtung
